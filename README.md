@@ -1,4 +1,4 @@
-# Assignment 5 - Public Key Cryptography
+# Public Key Cryptography
 
 The program will produce public and private keys from the program keygen. It can also encrypts data into an unreadable jargon using the public key. With the private key, it can decrypt the message into its original form.
 
